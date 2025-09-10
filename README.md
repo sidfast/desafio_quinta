@@ -1,4 +1,6 @@
-## Aula 4: Consumo de API Externa e Exibição de Dados
+## Consumo de API Externa e Exibição de Dados
+
+(O conteúdo a seguir será um desafio para a turma aplicar no projeto de sala e também nos projetos respectivos de cada equipe)
 
 ### Título
 
